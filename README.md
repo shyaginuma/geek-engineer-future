@@ -8,4 +8,4 @@ https://anchor.fm/geek-engineer-future
 
 ## 過去の放送内容
 
-[#1 なんでデータサイエンティスト/機械学習エンジニアになったの？](hoge)
+[#1 なんでデータサイエンティスト/機械学習エンジニアになったの？](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23001.md)
