@@ -8,5 +8,5 @@ https://anchor.fm/geek-engineer-future
 
 ## 過去の放送内容
 
-[#1 なんでデータサイエンティスト/機械学習エンジニアになったの？](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23001.md)
-[#2 効果検証入門がよかった話](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23002.md)
+* [#1 なんでデータサイエンティスト/機械学習エンジニアになったの？](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23001.md)
+* [#2 効果検証入門がよかった話](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23002.md)
