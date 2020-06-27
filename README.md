@@ -13,3 +13,5 @@ https://anchor.fm/geek-engineer-future
 * [#3 自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開した話](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23003.md)
 * [#4 情報収集をどうやってやっているか](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23004.md)
 * [#5 atmaCup#5に参加してきました！](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23005.md)
+* [#6 動画系学習サービス使ってる？](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23006.md)
+* [#7 mlflow使ってみた](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23007.md)
