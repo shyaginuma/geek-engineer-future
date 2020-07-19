@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ギークなエンジニアを目指す.fm</title>
-    <link>https://geek-engineer-future.github.io/posts/</link>
+    <link>https://shyaginuma.github.io/geek-engineer-future/posts/</link>
     <description>Recent content in Posts on ギークなエンジニアを目指す.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://geek-engineer-future.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shyaginuma.github.io/geek-engineer-future/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>#8 BigQueryMLってどんなもの？</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_008/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_008/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_008/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_008/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary BigQueryMLの最近のアップデートがすごいので、全体感＋アップデートについてお話しました！
@@ -26,10 +26,10 @@ BigQueryMLとは  SQLで機械学習ができるBigQueryの機能 学習から�
     
     <item>
       <title>#7 mlflow使ってみた</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_007/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_007/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_007/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_007/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary 現在参加中のコンペで、mlflowを使ってみたので、その所感などをお話しました！
@@ -38,10 +38,10 @@ mlflowとは？  URL: https://mlflow.org/ 機械学習のプロジェクトを�
     
     <item>
       <title>#6 動画系学習サービス使ってる？</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_006/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_006/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_006/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_006/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary 二人が使っている動画系学習サービスについてお話しました。
@@ -50,10 +50,10 @@ takapyの場合  前はUdemy, Progate, ドットインストール, Coursera  �
     
     <item>
       <title>#5 atmaCup#5に参加してきました！</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_005/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_005/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_005/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_005/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary 2020年5月29日〜6月6日に開催されていたatmaCupに参加したので、その感想などを話しました。
@@ -65,10 +65,10 @@ atmaCupとは 以下compassより抜粋
     
     <item>
       <title>#4 情報収集をどうやってやっているか</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_004/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_004/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_004/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_004/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary 普段の情報収集をどうやってやっているかについて話しました
@@ -77,10 +77,10 @@ takapyの場合  SlackとTwitterがメイン SlackにはRSSでMediumや企業の
     
     <item>
       <title>#3 自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開した話</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_003/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_003/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_003/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_003/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary 自然言語をよしなに可視化・分析できるライブラリ「nlplot」を公開したよ、という話をしました。
@@ -95,10 +95,10 @@ https://github.com/takapy0210/nlplot</description>
     
     <item>
       <title>#2 効果検証入門がよかった話</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_002/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_002/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_002/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_002/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary GWに効果検証入門を読んでとても勉強になったので、その感想などを話しました。
@@ -107,10 +107,10 @@ GWに効果検証入門を読んでいた  @yaginuuunがGWに効果検証入門�
     
     <item>
       <title>#1 なんでデータサイエンティスト/機械学習エンジニアになったの？</title>
-      <link>https://geek-engineer-future.github.io/posts/episode_001/</link>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_001/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0900</pubDate>
       
-      <guid>https://geek-engineer-future.github.io/posts/episode_001/</guid>
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_001/</guid>
       <description>Podcastはこちらから🎵
 👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
 Summary 初回なので自己紹介しつつ、今の職業になぜなったのか？どうやってなったのかをゆるく話しました。
