@@ -20,5 +20,8 @@ paginate = 10
     [[params.social]]
         name = "twitter"
         url = "https://twitter.com/gef_fm"
+    [[params.social]]
+        name = "send"
+        url = "https://peing.net/ja/04affd1e18a05d"
 
     # theme color # TODO: 設定する
