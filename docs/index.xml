@@ -2,13 +2,126 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ギークなエンジニアを目指す.fm</title>
-    <link>http://example.org/</link>
+    <link>https://geek-engineer-future.github.io/</link>
     <description>Recent content on ギークなエンジニアを目指す.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://geek-engineer-future.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#8 BigQueryMLってどんなもの？</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_008/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_008/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary BigQueryMLの最近のアップデートがすごいので、全体感＋アップデートについてお話しました！
+BigQueryMLとは  SQLで機械学習ができるBigQueryの機能 学習から推論までをBigQuery上で完結できるのが良いところ  リソース面などを気にすることなく、BigQueryにある程度丸投げしながら手軽に機械学習できる    使えるモデル  線形回帰 ロジスティック回帰 k-means（クラスタリング） Matrix Factorization（レコメンド） DNN AutoML Tables XGBoost ARIMA  モデルのインポートも可能
+主なできること  モデルのパラメータ指定 特徴作成（TRANSFORM句） モデルの評価（ML.EVALUATE関数） モデルによる推論（ML.PREDICT関数） 混同行列、特徴の重みの出力 モデルのエクスポート  Reference  公式Doc リリースノート  </description>
+    </item>
+    
+    <item>
+      <title>#7 mlflow使ってみた</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_007/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_007/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary 現在参加中のコンペで、mlflowを使ってみたので、その所感などをお話しました！
+mlflowとは？  URL: https://mlflow.org/ 機械学習のプロジェクトを行う上で複雑になりがちな実行環境、モデル、パラメータ、評価結果、その他もろもろの実験管理を行ってくれるプラットフォーム（ライブラリ） 以下の3種類がある  mlflow Tracking mlflow Projects mlflow Models    mlflow Tracking  モデル作成時の実験管理をサポートしてくれる機能  mlflow Projects  作成した機械学習モデル作成コードを誰でも利用できるようにパッケージングする機能  mlflow Models  mlflow Trackingで保存したモデルを簡単にデプロイできる機能  使ってみた所感  実験（run）ごとに各fold毎のスコアだったり、ハイパーパラメーターを管理することができて便利 しかもそれをブラウザ上で表示して見れるので、どのrunで、どのfoldのスコアがいくつで、それのLBのスコアはいくつだった、みたいなことも一覧表示できる runに紐づける形で、Note（フリースタイルのmemo）だったり、Artifact（画像ファイルやtxtファイルなど）を紐づけることも可能 導入コストは比較的少なく、普段loggingしている箇所をmlflowに置き換えるだけでOK  </description>
+    </item>
+    
+    <item>
+      <title>#6 動画系学習サービス使ってる？</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_006/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_006/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary 二人が使っている動画系学習サービスについてお話しました。
+takapyの場合  前はUdemy, Progate, ドットインストール, Coursera  キカガクさんのコース Andrew先生のMachine Learning   今はYoutubeを使っている  ヨビノリさんなど    yaginuuunの場合  edX, Udacity, Courseraなど  edX, Coursera: 大学とのコラボレーションが主力、Certificateが発行できる（有料） Udacity: 企業とのコラボレーションが主力   最近はedXをやっている  ABテストのコースを受けている 大学の授業に即した形で課題やテストも含まれている    </description>
+    </item>
+    
+    <item>
+      <title>#5 atmaCup#5に参加してきました！</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_005/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_005/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary 2020年5月29日〜6月6日に開催されていたatmaCupに参加したので、その感想などを話しました。
+atmaCupとは 以下compassより抜粋
+ データ解析・アルゴリズムソリューション・システム開発を行うベンチャー企業 atma株式会社(https://atma.co.jp) が主催するデータコンペティションです。 参加者が準備されたデータをテーマに沿って分析・予測しその精度を競います。
+ 今回は第5回目でした。
+第5回目はどうだった？  参加チーム数は218チーム 今回は問題が結構難しかった  光学系装置の観測データを元に，その実験の結果を予測するもの   その中で最終的に23位だった。  camaroさんとチームマージさせていただき、一緒に戦いました 自分はGBDT, camaroさんはNN系のモデルで攻めた camaroさんのドメイン知識吸収量や、コンペの戦略の立て方がスゴかった 最終的にはアンサンブルしたモデルを提出したが、自分のGBDTはあまりスコアに貢献できていなかった汗 めちゃくちゃ楽しく参加させていただき、チームを組んでくださったcamaroさんと運営のみなさまには感謝です！   コンペサイトのぐるぐる(https://www.guruguru.ml/) がすごい件  コンペ中にどんどんアップデートされていく モチベーションを維持する仕組みが満載ですごい    </description>
+    </item>
+    
+    <item>
+      <title>#4 情報収集をどうやってやっているか</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_004/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_004/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary 普段の情報収集をどうやってやっているかについて話しました
+takapyの場合  SlackとTwitterがメイン SlackにはRSSでMediumや企業のテック系ブログ、arxivから収集 Twitterではリストを作って管理  yaginuuunの場合  FeedlyとTwitter(+社の分報)がメイン Feedlyは企業のテックブログやリリースノートを購読 Twitterリストはすごく便利  Reference  機械学習のオススメ情報収集術 by Mr. ベイエリアさん Career Advice / Reading Research Papers by Prof. Andrew Ng  </description>
+    </item>
+    
+    <item>
+      <title>#3 自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開した話</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_003/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_003/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary 自然言語をよしなに可視化・分析できるライブラリ「nlplot」を公開したよ、という話をしました。
+nlplotについて pipでインストールできます。
+pip install nlplot 下記グラフが簡単に描画できるので、データの概要・傾向を掴みたいときに便利かと思います。
+ N-gram bar chart N-gram tree Map Histogram of the word count wordcloud co-occurrence networks sunburst chart pyLDAvis  具体的な使用方法については
+ ブログ kaggleのカーネル Githubのサンプルコード  を参考にしていただければと思います。
+PyPIへの登録は大変？  初回は分からないことだらけだったので、結構大変だった。しょうもないところで数時間溶かしました  数時間溶かした備忘はここにまとめてあります。   主にPython実践入門にかかれている手順を参考に登録した。  PRお待ちしております〜 あまり綺麗でない状態のコードを公開してしまったので羞恥の念が全身にみなぎっていますが（こんなに伸びると思っていなかった&amp;hellip;）今後もアップデートしていきたいと思っていますので、PRなどお待ちしております！
+そしてすでにISSUEやPRを送ってくださったみなさま、ありがとうございます！
+https://github.com/takapy0210/nlplot</description>
+    </item>
+    
+    <item>
+      <title>#2 効果検証入門がよかった話</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_002/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_002/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary GWに効果検証入門を読んでとても勉強になったので、その感想などを話しました。
+GWに効果検証入門を読んでいた  @yaginuuunがGWに効果検証入門を読んでいた GWに同じく読んでいる人多かった（TL上で多く観測された） @yaginuuunはnekoumeiさんの実装を参考にしつつPythonで実装 Rを始めるきっかけになりそう  本について  2020/1/18に発売。 著者はサイバーエージェントの方。安井さん 因果推論には大きく二つの流派があるらしい（どっちも僕は詳しくないので、本から引用）  Donald Rubin：因果を欠損の問題として捉える Judea Pearl：ベイジアンネットワークと呼ばれる手法を出発点にした   効果検証を行うにはRCTが理想（Randomized Controlled Trial） しかし、RCTが実施できないタイミングや見かけ上RCTに見えていても実際はそうではないことなどが多い  RCTが実施できないタイミング：政策など ロヤリティの高いユーザーへのクーポン配信など（セレクションバイアス）   そのようなタイミングでどのように効果検証を行えば良いか → 因果推論的手法  回帰分析 傾向スコア  マッチング IPW   差の差分析 回帰不連続デザイン   付録でRの使い方も書いてある 満腹感の高い書籍  感想など  実務を意識して書かれていて、実際の実務でもありそうなケースの分析例も豊富に乗っているので業務に活用しやすい 痛い指摘も散りばめられている  バイアスのループの話  バイアスのかかった分析結果→バイアスのかかった意思決定→&amp;hellip;   検定を様々な指標に適用し、上がってる指標を探す   よくある質問を先回りして回収してくださっている  傾向スコアの精度は気にするべき？ 回帰分析の時に多重共線性は気にするべき？ 傾向スコアマッチングとIPWはどう違うのか？ などなど   R使えるようになろう  参考リンク集  効果検証入門 「そのデータサイエンスは、本当にビジネス貢献できていますか？ 」『効果検証入門』著者が語るデータサイエンスのあり方: 著者の方のインタビュー記事 原因と結果の経済学：因果推論のイメージ掴むのに最初に読んで良かった本 nekoumeiさんによるpython実装 傾向スコアを用いた因果推論入門 理論編 by @nino_pira さん 『効果検証入門』のすごいところベスト５  </description>
+    </item>
+    
+    <item>
+      <title>#1 なんでデータサイエンティスト/機械学習エンジニアになったの？</title>
+      <link>https://geek-engineer-future.github.io/posts/episode_001/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://geek-engineer-future.github.io/posts/episode_001/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary 初回なので自己紹介しつつ、今の職業になぜなったのか？どうやってなったのかをゆるく話しました。
+自己紹介 @takapy：機械学習エンジニア@コネヒト   学生時代：
+ 情報学部でスマブラ64の研究大学専用SNSの研究（と呼べるほどやっていなかったので、単なる開発）みたいなことをしていた 当時はあまり勉強していなくて、今になって後悔しているクラスタ    前職：新卒入社したSIerに6年勤務
+ 製造業向けにEPRパッケージの導入などをしていた 開発5割、要件定義（Excel, PowerPoint職人）5割、みたいな働き方 当時の開発言語はSmalltalkという[- 化石言語]馴染みの薄い言語 新人歓迎会で江頭2:50のコスプレして踊ったのは良い思い出 キャリアの選択肢を増やすためにiOSアプリ作ったり、RubyやPythonを独学    現職：
+ 実務未経験から機械学習エンジニアとして転職 NLPを用いたコミュニティの健全化やレコメンドエンジンの開発に従事    @yaginuuun：データサイエンティスト@メルカリ   学生時代：自動車向け潤滑油の研究（1データ得るのに3 ~ 24時間、ビッグデータとは程遠い世界）
+ 研究内容はそれなりに有意義なものだった 学部卒で就職    前職：グロービス
+ データサイエンティストという名のデータなんでもマン データ分析チームができて間も無く入社 本当に色々やった  分析基盤の整備 可視化 集計分析 SQL講習 レコメンドエンジンのリリース      現職：
+ ABテストの改善、プロダクトの分析    なんで今の職種になったのか @takapy  Railsの勉強をしていく中で自分でサービス作ろうと思った 画像から類似商品を検索できるアプリ 画像に映る物体の検出ってどうやるのかな？→機械学習を知る そこから興味関心が機械学習（≒python）にシフト  流行っていたから〜ではなく、手段として機械学習に出会った   ML Eng / DS 職を求めて転職活動を実施  @yagi  大学三年時の留年がきっかけでデータ分析コンサル企業でインターン  SQL、BigQueryに出会う 集計分析の限界を知る（差に意味があるかどうかを見出そうとすると統計が必要） 事業会社での分析って面白そうだなと思う    ポッドキャストではどんなことを話していくのか  お互い未経験からだったので、転職の時どうだったとか 微妙に専門分野が異なるので、それぞれの興味のある技術の話とか （続いてきたらゲスト呼んだり） （ギークな話題を中心に） （輪読会の様子を配信したり）  </description>
+    </item>
     
   </channel>
 </rss>

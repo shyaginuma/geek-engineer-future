@@ -3,15 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://geek-engineer-future.github.io/posts/episode_008/</loc>
+    <lastmod>2020-07-04T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://geek-engineer-future.github.io/posts/</loc>
+    <lastmod>2020-07-04T00:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://geek-engineer-future.github.io/</loc>
+    <lastmod>2020-07-04T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_007/</loc>
+    <lastmod>2020-06-27T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_006/</loc>
+    <lastmod>2020-06-20T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_005/</loc>
+    <lastmod>2020-06-13T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_004/</loc>
+    <lastmod>2020-05-30T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_003/</loc>
+    <lastmod>2020-05-24T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_002/</loc>
+    <lastmod>2020-05-17T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/posts/episode_001/</loc>
+    <lastmod>2020-05-09T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geek-engineer-future.github.io/tags/</loc>
   </url>
   
 </urlset>
