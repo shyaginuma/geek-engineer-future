@@ -1,4 +1,8 @@
-# #5 atmaCup#5に参加してきました！
+---
+title: "#5 atmaCup#5に参加してきました！"
+date: 2020-06-13T00:00:00+09:00
+draft: false
+---
 
 Podcastは[こちら](https://anchor.fm/geek-engineer-future/)から🎵
 

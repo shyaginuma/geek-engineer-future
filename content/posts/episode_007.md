@@ -1,4 +1,8 @@
-# #7 mlflow使ってみた
+---
+title: "#7 mlflow使ってみた"
+date: 2020-06-27T00:00:00+09:00
+draft: false
+---
 
 Podcastは[こちら](https://anchor.fm/geek-engineer-future/)から🎵
 
