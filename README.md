@@ -15,3 +15,5 @@ https://anchor.fm/geek-engineer-future
 * [#5 atmaCup#5に参加してきました！](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23005.md)
 * [#6 動画系学習サービス使ってる？](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23006.md)
 * [#7 mlflow使ってみた](https://github.com/shyaginuma/geek-engineer-future/blob/master/podcast/%23007.md)
+* [#8 BigQueryMLについて](/podcast/#008.md)
+* [#9 WFHの過ごし方](/podcast/#009.md)
