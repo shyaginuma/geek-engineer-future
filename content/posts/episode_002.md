@@ -1,4 +1,8 @@
-# #2 効果検証入門がよかった話
+---
+title: "#2 効果検証入門がよかった話"
+date: 2020-05-17T00:00:00+09:00
+draft: false
+---
 
 Podcastは[こちら](https://anchor.fm/geek-engineer-future/episodes/2-ee5foe)から🎵
 

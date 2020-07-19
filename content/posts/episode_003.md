@@ -1,4 +1,8 @@
-# #3 自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開した話
+---
+title: "#3 自然言語を簡単に可視化・分析できるライブラリ「nlplot」を公開した話"
+date: 2020-05-24T00:00:00+09:00
+draft: false
+---
 
 Podcastは[こちら](https://anchor.fm/geek-engineer-future/episodes/3-nlplot-eefovh)から🎵
 

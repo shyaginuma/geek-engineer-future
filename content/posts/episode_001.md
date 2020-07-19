@@ -1,4 +1,8 @@
-# #1 なんでデータサイエンティスト/機械学習エンジニアになったの？
+---
+title: "#1 なんでデータサイエンティスト/機械学習エンジニアになったの？"
+date: 2020-05-09T00:00:00+09:00
+draft: false
+---
 
 Podcastは[こちら](https://anchor.fm/geek-engineer-future/episodes/1-edqera)から🎵
 
