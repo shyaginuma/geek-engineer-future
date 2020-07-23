@@ -6,10 +6,22 @@
     <description>Recent content on ギークなエンジニアを目指す.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2020 00:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://shyaginuma.github.io/geek-engineer-future/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#9 WFHの過ごし方について</title>
+      <link>https://shyaginuma.github.io/geek-engineer-future/posts/episode_009/</link>
+      <pubDate>Sun, 19 Jul 2020 00:00:00 +0900</pubDate>
+      
+      <guid>https://shyaginuma.github.io/geek-engineer-future/posts/episode_009/</guid>
+      <description>Podcastはこちらから🎵
+👉質問コメントは質問箱 or Twitterのハッシュタグ#geek_engineerにてお待ちしております📮
+Summary WFHの過ごし方や買ったものなどについてお話しました！
+買ったもの yaginuuun  分割キーボード  肩こりが激減した   マットレス ディスプレイ  デュアルディスプレイになって、モニターアームが欲しいと思ってる    takapy  FLEXISPOTの電動昇降デスク  高さのメモリ機能があると便利   DELLのディスプレイ ディスプレイアーム  運動 yaginuuun  なわとび  大人がやってると周りからの目が痛い    takapy  フィットネス系Youtuberと一緒に運動  習慣化するのが難しい    仕事 yaginuuun  ポモドーロテクニック使ってる  Be Focused Pro    takapy  ラバーダック・デバッグをやってみている  https://www.lifehacker.jp/2019/10/solve-your-own-problems-with-the-rubber-duck-trick.html    </description>
+    </item>
     
     <item>
       <title>#8 BigQueryMLってどんなもの？</title>

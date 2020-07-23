@@ -12,16 +12,16 @@ paginate = 10
 [params]
     author = "GEF"
     description = "ギークなエンジニアを目指す@takapyと@yaginuuunが技術、実務、キャリアなどギークな話題についてカジュアルに話すポッドキャストです。"
-    avatar = "static/gef_logo.jpg"
-
-    [[params.social]]
-        name = "radio" # Anchor
-        url = "https://anchor.fm/geek-engineer-future"
-    [[params.social]]
-        name = "twitter"
-        url = "https://twitter.com/gef_fm"
-    [[params.social]]
-        name = "send"
-        url = "https://peing.net/ja/04affd1e18a05d"
 
     # theme color # TODO: 設定する
+
+
+[[params.social]]
+    name = "radio" # Anchor
+    url = "https://anchor.fm/geek-engineer-future"
+[[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/gef_fm"
+[[params.social]]
+    name = "send"
+    url = "https://peing.net/ja/04affd1e18a05d"
