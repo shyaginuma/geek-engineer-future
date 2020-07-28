@@ -33,18 +33,18 @@ kaggleで4つのGMの称号を持つ[Abhishek Thakur 氏](https://www.kaggle.com
 ・Approaching reproducible code & model serving
 ```
 
-コードスニペットも豊富で、kaggleでよく話題になるCross-validationやFeature engineeringといった内容から、Approaching reproducible code & model servingといった実運用を見据えた章もあり、とても勉強になる本でした。（DNNはPyTorchによるスニペットがあります）
+コードスニペットも豊富で、kaggleでよく話題になるCross-validationやFeature engineeringといった内容から、Approaching reproducible code & model servingといった実運用を見据えた章もあり、とても勉強になる本だった。（DNNはPyTorchによるスニペット有）
 
 ## 他のkaggle書籍との棲み分け
-個人的には下記順番で学習するのが良いと思う。
+個人的には下記順番で学習するのが良いと思った。
 
-1. PythonではじめるKaggleスタートブック
-2. kaggleで勝つデータ分析の技術
-3. Approaching (Almost) Any Machine Learning Problem（4GM本）
+1. [PythonではじめるKaggleスタートブック](https://www.amazon.co.jp/dp/4065190061)
+2. [kaggleで勝つデータ分析の技術](https://www.amazon.co.jp/dp/4297108437)
+3. [4GM本:Approaching (Almost) Any Machine Learning Problem](https://www.amazon.co.jp/dp/8269211508)
 
 本書籍は「kaggleで勝つデータ分析の技術」と内容が重複している部分も多いが、ユニークな点として下記があると感じた。
 - 特徴量選択の章がある
-- ImageやNLPに特化した章がある
+- CVやNLPに特化した章がある
 - 実運用を見据えたserving方法にも触れている
 
 
