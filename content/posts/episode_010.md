@@ -1,5 +1,5 @@
 ---
-title: "4GM本（Approaching (Almost) Any Machine Learning Problem）を読んだ感想を話しました！"
+title: "#010 4GM本（Approaching (Almost) Any Machine Learning Problem）を読んだ感想を話しました！"
 date: 2020-07-28T18:40:11+09:00
 draft: false
 ---
